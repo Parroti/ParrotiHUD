@@ -2772,7 +2772,7 @@ Scheme
 			}
 		}
 
-		"ProstoSans-Default"
+		"ProstoSansDeafult"
 		{
 			"1"
 			{
