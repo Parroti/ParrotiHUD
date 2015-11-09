@@ -2772,11 +2772,11 @@ Scheme
 			}
 		}
 
-		"ProstoSansDeafult"
+		Harabara
 		{
 			"1"
 			{
-				"name"		"ProstoSans-Bold"
+				"name"		"Harabara Mais Demo"
 				"tall"		"15"
 				"weight"	"500"
 				"antialias" "1"
@@ -5122,8 +5122,8 @@ Scheme
 		}			
 		"7"
 		{
-			"font" "resource/fonts/ProstoSansBold.ttf"
-			"name" "ProstoSans-Bold"
+			"font" "resource/fonts/Harabara_Mais_Demo"
+			"name" "Harabara Mais Demo"
 		}
 	}
 }

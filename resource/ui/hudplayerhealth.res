@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"ProstoSansDeafult"
+		"font"			"Harabara"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"
