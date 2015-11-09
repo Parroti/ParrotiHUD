@@ -2772,7 +2772,20 @@ Scheme
 			}
 		}
 
+		Harabara-Default
+		{
+			"1"
+			{
+				"name"		"Harabara Mais Demo"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+
+			}
+		}
 	}
+	
+	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5107,6 +5120,10 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}			
-		"7" "resource/ocra.ttf"
+		"7"
+		{
+			"font" "resource/fonts/Harabara_Mais_Demo"
+			"name" "Harabara Mais Demo"
+		}
 	}
 }
