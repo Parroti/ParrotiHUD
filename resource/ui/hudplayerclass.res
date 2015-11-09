@@ -29,7 +29,7 @@
 		"wide_minmode"	"37"
 		"tall"			"75"
 		"tall_minmode"	"37"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"	"1"	
