@@ -2771,7 +2771,56 @@ Scheme
 				"additive"	"0"
 			}
 		}
+		
+		Harabara-MediumBold
+		{
+			"1"
+			{
+				"name"		"Harabara Mais Demo"
+				"tall"		"18"
+				"weight"	"700"
+				"antialias" "1"
 
+			}
+		}
+
+		
+		Harabara-Medium
+		{
+			"1"
+			{
+				"name"		"Harabara Mais Demo"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+
+			}
+		}
+
+		Harabara-BigBold
+		{
+			"1"
+			{
+				"name"		"Harabara Mais Demo"
+				"tall"		"45"
+				"weight"	"700"
+				"antialias" "1"
+
+			}
+		}
+		
+		Harabara-Big
+		{
+			"1"
+			{
+				"name"		"Harabara Mais Demo"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+
+			}
+		}
+		
 		Harabara-Default
 		{
 			"1"

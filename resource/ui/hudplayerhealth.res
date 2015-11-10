@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-200"		[$WIN32]
+		"xpos"			"c-210"		[$WIN32]
 		"xpos_minmode"	"-5"		[$WIN32]
 		"ypos"			"r235"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Harabara-Default"
+		"font"			"Harabara-Medium"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"
