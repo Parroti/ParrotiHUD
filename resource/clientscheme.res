@@ -2776,7 +2776,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"COCOGOOSE"
+				"name"		"Harabara Mais Demo"
 				"tall"		"18"
 				"weight"	"700"
 				"antialias" "1"
@@ -2789,7 +2789,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"COCOGOOSE"
+				"name"		"Harabara Mais Demo"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias" "1"
@@ -2801,7 +2801,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"COCOGOOSE"
+				"name"		"Harabara Mais Demo"
 				"tall"		"45"
 				"weight"	"700"
 				"antialias" "1"
@@ -2813,7 +2813,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"COCOGOOSE"
+				"name"		"Harabara Mais Demo"
 				"tall"		"45"
 				"weight"	"500"
 				"antialias" "1"
@@ -2825,7 +2825,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"COCOGOOSE"
+				"name"		"Harabara Mais Demo"
 				"tall"		"15"
 				"weight"	"500"
 				"antialias" "1"
@@ -5171,8 +5171,8 @@ Scheme
 		}			
 		"7"
 		{
-			"font" "resource/fonts/Cocogoose"
-			"name" "COCOGOOSE"
+			"font" "resource/fonts/Harabara_Mais_Demo"
+			"name" "Harabara Mais Demo"
 		}
 	}
 }
